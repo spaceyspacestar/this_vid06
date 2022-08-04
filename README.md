@@ -1,5 +1,5 @@
-# this_vid2
-The objectively best Twitter video downloader bot.
+# this_vid06
+The objectively best Twitter video downloader bot since 2006.
 
 [If you want to self-host this, I suggest doing these things.](https://twitter.com/TheEssem/status/1179800410120474625)
 
@@ -22,4 +22,5 @@ This is a parody of video downloader bots and does not actually send users downl
 
 **I AM NOT RESPONSIBLE FOR ANYTHING THAT HAPPENS TO YOUR ACCOUNT AS A RESULT OF HOSTING THIS.**
 
+Original @this_vid2 by [TheEssem](https://github.com/TheEssem/this_vid2)
 Original @this_vid by [shalvah](https://twitter.com/theshalvah).
